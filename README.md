@@ -1,11 +1,11 @@
 # Lecture New-Date =>
 ## What is New Date in javascript = >
-## The new Date() function in JavaScript is used to create a new instance of the Date object, which represents a specific point in time.
-## There four ways for creating Date objects =>
-## 1) New Date()
-## 2) New Date(milliseconds)
-## 3) New Date(date string)
-## 4) New Date((year, month, day, hours,minutes,seconds,milliseconds)
+### The new Date() function in JavaScript is used to create a new instance of the Date object, which represents a specific point in time.
+### There four ways for creating Date objects =>
++ 1) New Date()
++2) New Date(milliseconds)
++ 3) New Date(date string)
++ 4) New Date((year, month, day, hours,minutes,seconds,milliseconds)
 ![](https://static.mabl.com/doc/readme/img/eaf866b-tomorrows_date_js.gif)
 # Date Methods Get =>
 ## We have many types of but i will tell some of them!
